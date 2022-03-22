@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TASK APP</string>
+    <string name="register">REGISTER</string>
+    <string name="name">NAME</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="send_password">SEND PASSWORD</string>
+    <string name="registerText">REGISTER</string>
+    <string name="address">ADDRESS</string>
+    <string name="country">COUNTRY</string>
+    <string name="date_of_birth">DATE OF BIRTH</string>
+    <string name="gender">GENDER</string>
+    <string name="password">PASSWORD</string>
+    <string name="phone">PHONE</string>
+    <string name="logout">LOGOUT</string>
+    <string name="email">EMAIL</string>
+    <string name="Profile">PROFILE</string>
+    <string name="Task">TASK</string>
+
+</resources>
